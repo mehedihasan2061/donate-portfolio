@@ -117,3 +117,37 @@ hr{
     padding-top: 20px;
     padding-left: 15px;
 }
+/* 3rd part  */
+.container{
+    display: flex;
+    margin-top: 100px;
+}
+.half-width{
+    width: 80%;
+    margin-left: 70px;
+    
+}
+.half-width img{
+    width: 500px;
+    border-radius: 15px;
+}
+.header{
+    font-size: 40px;
+    font-weight: 700;
+}
+/* 4th part  */
+.about{
+    margin-top: 50px;
+    text-align: center;
+}
+/* footer  */
+.footer-item{
+    height: 100px;
+    text-align: center;
+    background-color: black;
+    margin-top: 50px;
+    padding-top: 80px;
+}
+.text2{
+    color:darkred ;
+}
