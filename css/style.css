@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.top-area{
+    height: 500px;
+   background-image: url(../images/donation6.jpg);
+   background-position: bottom;
+   background-size: cover;
+   text-align: center;
+   
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+.text{
+    color: white;
+    font-size: 15px;
+}
+.btn-link{
+    border: 1px solid gray;
+    margin-top: 30px;
+    padding: 10px 40px;
+    background-image: linear-gradient(salmon,tomato);
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+/* 2nd part  */
