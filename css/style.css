@@ -70,13 +70,18 @@ p{
 }
 .other-amount{
     text-align: center;
-    font-weight: 400;
     margin-top: 50px;
     color: grey;
+    
+}
+input{
+    border: none;
+    outline: none;
+    
 }
 hr{
-    width: 60%;
-    margin-left: 250px;
+    width: 40%;
+    margin-left: 350px;
     margin-top: 10px;
 }
 .donate-btn{
@@ -139,6 +144,28 @@ hr{
 .about{
     margin-top: 50px;
     text-align: center;
+}
+
+.input-area{
+    text-align: center;
+    background-color: bisque;
+    margin: auto;
+    width: 50%;
+    height: 100px;
+    padding: 50px 10px 30px 10px ;
+    margin-top: 50px;
+    font-size: 10px;  
+}
+.input-title{
+    padding: 10px;
+    font-size: 15px;
+}
+.subscribe-btn{
+    padding: 10px;
+    border: none;
+    background-image: linear-gradient(salmon,tomato);
+    color: white;
+    font-size: 15px;
 }
 /* footer  */
 .footer-item{
